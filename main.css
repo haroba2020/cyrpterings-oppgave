@@ -1,0 +1,62 @@
+body {
+    background-color: #A1C6EA;
+}
+@font-face {
+    font-family: 'ocr-a';
+    src: url("ocr-a\ bt.ttf") format('woff2')
+}
+.title {
+    text-align: center;
+    font-family: 'Silkscreen', cursive;
+    font-size: 80px;
+    padding-top: 4%;
+    color: rgb(40, 40, 40);
+}
+
+.beskrivelse{
+    padding-bottom: 2%;
+}
+
+.submit{
+    margin: 3%;
+    size: 2rem;
+    padding: 2%;
+    color: rgb(40, 40, 40);
+}
+
+.box {
+    padding: 2%;
+    background-color: #F5F5DC;
+    text-decoration: #A1C6EA;
+}
+
+.form {
+    padding-top: 5%;
+    font-size: 20px;
+    font-family: 'Silkscreen', cursive;
+    text-align: center;
+}
+
+
+.box3{
+    padding: 2%;
+    background-color: #F5F5DC;
+    text-decoration: #A1C6EA;
+    font-family: 'ocr-a';
+}
+
+
+#kryptert1{
+    font-family: 'ocr-a';
+}
+
+.felt{
+    background-color: #c2c0c0;
+    size: 2rem;
+    padding: 2%;
+    color: rgb(40, 40, 40);
+}
+
+.footer{
+    padding-top: 4%;
+}
