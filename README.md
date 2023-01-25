@@ -1,2 +1,1 @@
-# Cryptering
-https://emiliedt05.github.io/Cryptering/
+Oppgave der hvor vi skulle lage en oppgave som bruker Cæsarchiffer kryptering.
